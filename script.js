@@ -7,7 +7,7 @@ function compareValues(sum,luckyNumber){
     if(sum%luckyNumber===0){
         outputBox.innerText=("Your birthday is lucky 😍🥳")
     }else{
-        outputBox.innerText=(" Sorry, your birthday is not lucky 🥺");
+        outputBox.innerText=(" Sorry, your birthday is not lucky,🥺");
     }
 }
 
